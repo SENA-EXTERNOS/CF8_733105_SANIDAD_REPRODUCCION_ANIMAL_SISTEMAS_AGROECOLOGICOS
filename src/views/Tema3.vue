@@ -179,46 +179,46 @@
         p Los insumos son todos los productos, de origen natural o sintético, utilizados para favorecer la producción agropecuaria. Igualmente, ayudan a diagnosticar, prevenir y erradicar enfermedades o agentes patógenos que afectan los rendimientos de los animales y sus subproductos. Entre los principales insumos empleados en la producción pecuaria se encuentran:
 
 
-        .row
+        .row.fila1-tarj-avat-tema3
           .col-sm-6.col-lg-3.mb-4.mb-lg-0
             .tarjeta--boton.color-acento-botones.tarj-avat-tema3.p-4  
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/temas/img1-tarj-tema3.png', alt='Texto que describa la imagen')
-
-              h3.text-center Droga
-              p.text-small Producto fármaco de origen animal o vegetal, utilizado para tratar enfermedades que padecen los animales.
+                    img(src='@/assets/curso/temas/img1-tarj-tema3.png', alt='Texto que describa la imagen').img-tarj-avatar-tema3
+              .txt-tarj-avatar-tema3
+                h3.text-center Droga
+                p.text-small Producto fármaco de origen animal o vegetal, utilizado para tratar enfermedades que padecen los animales.
 
           .col-sm-6.col-lg-3.mb-4.mb-lg-0
             .tarjeta--boton.color-acento-botones.tarj-avat-tema3.p-4
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/temas/img3-tarj-tema3.png', alt='Texto que describa la imagen')
-
-              h3.text-center Producto biológico
-              p.text-small Producto extraído de un organismo vivo, empleado para realizar control biológico de enfermedades.
+                    img(src='@/assets/curso/temas/img3-tarj-tema3.png', alt='Texto que describa la imagen').img-tarj-avatar-tema3
+              .txt-tarj-avatar-tema3
+                h3.text-center Producto biológico
+                p.text-small Producto extraído de un organismo vivo, empleado para realizar control biológico de enfermedades.
 
           .col-sm-6.col-lg-3.mb-4.mb-sm-0
             .tarjeta--boton.color-acento-botones.tarj-avat-tema3.text-white--hover.p-4
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/temas/img3-tarj-tema3.png', alt='Texto que describa la imagen')
-
-              h3.text-center Medicamento
-              p.text-small Principio activo de uso farmacéutico.
+                    img(src='@/assets/curso/temas/img3-tarj-tema3.png', alt='Texto que describa la imagen').img-tarj-avatar-tema3
+              .txt-tarj-avatar-tema3
+                h3.text-center Medicamento
+                p.text-small Principio activo de uso farmacéutico.
 
           .col-sm-6.col-lg-3
             .tarjeta--boton.color-acento-botones.tarj-avat-tema3.p-4
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/temas/img4-tarj-tema3.png', alt='Texto que describa la imagen')
-
-              h3.text-center Producto natural
-              p.text-small Producto derivado de ingredientes naturales para uso terapéutico.
+                    img(src='@/assets/curso/temas/img4-tarj-tema3.png', alt='Texto que describa la imagen').img-tarj-avatar-tema3
+              .txt-tarj-avatar-tema3
+                h3.text-center Producto natural
+                p.text-small Producto derivado de ingredientes naturales para uso terapéutico.
 
         .row.fila2-tarj-avat-tema3
 
@@ -227,186 +227,198 @@
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/temas/img5-tarj-tema3.png', alt='Texto que describa la imagen')
-
-              h3.text-center Medicamento homeopático
-              p.text-small Producto fármaco de origen natural.
+                    img(src='@/assets/curso/temas/img5-tarj-tema3.png', alt='Texto que describa la imagen').img-tarj-avatar-tema3
+              .txt-tarj-avatar-tema3
+                h3.text-center Medicamento homeopático
+                p.text-small Producto fármaco de origen natural.
 
           .col-sm-6.col-lg-3.mb-4.mb-lg-0
             .tarjeta--boton.color-acento-botones.tarj-avat-tema3.p-4
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/temas/img6-tarj-tema3.png', alt='Texto que describa la imagen')
-
-              h3.text-center Cosmético
-              p.text-small Hechos con fines de embellecimiento.
+                    img(src='@/assets/curso/temas/img6-tarj-tema3.png', alt='Texto que describa la imagen').img-tarj-avatar-tema3
+              .txt-tarj-avatar-tema3
+                h3.text-center Cosmético
+                p.text-small Hechos con fines de embellecimiento.
 
           .col-sm-6.col-lg-3.mb-4.mb-sm-0
             .tarjeta--boton.color-acento-botones.tarj-avat-tema3.text-white--hover.p-4
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/temas/img7-tarj-tema3.png', alt='Texto que describa la imagen')
-
-              h3.text-center Probióticos
-              p.text-small Son microorganismos que aportan beneficios, generalmente, se usan para ayudar en los procesos digestivos.
+                    img(src='@/assets/curso/temas/img7-tarj-tema3.png', alt='Texto que describa la imagen').img-tarj-avatar-tema3
+              .txt-tarj-avatar-tema3
+                h3.text-center Probióticos
+                p.text-small Son microorganismos que aportan beneficios, generalmente, se usan para ayudar en los procesos digestivos.
 
           .col-sm-6.col-lg-3
             .tarjeta--boton.color-acento-botones.tarj-avat-tema3.p-4
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/temas/img8-tarj-tema3.png', alt='Texto que describa la imagen')
-
-              h3.text-center Aditivo
-              p.text-small Producto usado para mejorar el sabor de los alimentos.
+                    img(src='@/assets/curso/temas/img8-tarj-tema3.png', alt='Texto que describa la imagen').img-tarj-avatar-tema3
+              .txt-tarj-avatar-tema3
+                h3.text-center Aditivo
+                p.text-small Producto usado para mejorar el sabor de los alimentos.
 
     p.txt-inf-avat-tema3 La etnoveterinaria, en el manejo de la producción agropecuaria, se considera un modelo basado en producciones que emplean insumos naturales o elementos que se encuentran localmente de fácil acceso. Para conocer más sobre el manejo alternativo del bienestar animal, explore el siguiente video.
 
-  separador
-  br
+    separador
+    br
 
-  .row.container.justify-content-around.align-items-align-items-center
+    .row.container.justify-content-around.align-items-align-items-center
 
-      #medicina-etnoveterinaria
-      .titulo-segundo.color-secundario
-        h2 3.1 Medicina etnoveterinaria
+        #medicina-etnoveterinaria
+        .titulo-segundo.color-secundario
+          h2 3.1 Medicina etnoveterinaria
 
-      .row.tarjeta.tarjeta--blanca.p-2.p-md-3
+        .row.tarjeta.tarjeta--blanca.p-2.p-md-3
 
-        figure
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figure
+            .video
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-      p En las plantas medicinales se encuentran principios alelopáticos, con propiedades fitoquímicas, que se aprovechan en la elaboración de remedios y, a partir de estas características, se emplean para el alivio de dolencias, infecciones y enfermedades, o para realizar curaciones.
-  
-  br  
-  br  
-  br
+        p En las plantas medicinales se encuentran principios alelopáticos, con propiedades fitoquímicas, que se aprovechan en la elaboración de remedios y, a partir de estas características, se emplean para el alivio de dolencias, infecciones y enfermedades, o para realizar curaciones.
+    
+    br  
+    br  
+    br
 
-  .row.container.justify-content-around.align-items-align-items-center
+    .row.container.justify-content-around.align-items-align-items-center
 
-      #plantas-medicinales
-      .titulo-segundo.color-secundario
-        h2 3.2 Plantas medicinales
+        #plantas-medicinales
+        .titulo-segundo.color-secundario
+          h2 3.2 Plantas medicinales
+        
+        p Las plantas medicinales ejercen efectos de curación, además de un amplio potencial que efectúan sobre el desarrollo sostenible de la producción. Colombia, gracias a su diversidad de climas y variedad de sus suelos, propicia que las plantas se adapten fácilmente, con óptimas condiciones, favoreciendo su reproducción vegetal. 
+        p A continuación, se dan a conocer las principales plantas medicinales en uso veterinario.
+
+
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+
+          .row(titulo="Mango <em>Mangifera indica</em>")
+          
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/img1-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
+                //figcaption Leyenda de la imagen
+            
+            .col-md-6.mb-4.mb-md-0
+              p.txt-plantas-medic-tema3 Se usa para inflamación y quebraduras en vacas y cerdos.
+
+
+          
+          .row(titulo="Anís <em>Pimpinella anisum L.</em>")   
+
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/img2-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
+                //figcaption Leyenda de la imagen
+            
+            .col-md-6.mb-4.mb-md-0
+              p.txt-plantas-medic-tema3 Cuenta con propiedades antisépticas y es repelente de insectos
+
+
+          .row(titulo="Algarrobo <em>Hymenaea courbaril L.</em>")
+
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/img3-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
+                //figcaption Leyenda de la imagen
+
+            .col-md-6.mb-4.mb-md-0
+              p.txt-plantas-medic-tema3 Controla parásitos intestinales e infecciones urinarias.
+          
+
+
+          
+          .row(titulo="Albahaca <em>Ocimun basilicum L.</em>")
+            
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/img4-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
+                //figcaption Leyenda de la imagen
+
+            .col-md-6.mb-4.mb-md-0
+              p.txt-plantas-medic-tema3 Ayuda en afecciones gastrointestinales.
+          
+        
+
+
+          .row(titulo="Ajenjo <em>Artemisia absinthium L.</em>")
+            
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/img5-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
+                //figcaption Leyenda de la imagen
+
+            .col-md-6.mb-4.mb-md-0
+              p.txt-plantas-medic-tema3 Tónico estomacal, antiespasmódico, antiácido, estimulante del apetito, benéfico en afecciones de la vesícula biliar.
+          
+        
+          
+          .row(titulo="Ají <em>Capsicum annuum var.</em>")
+            
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/img6-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
+                //figcaption Leyenda de la imagen
+
+     
+            .col-md-6.mb-4.mb-md-0
+              p.txt-plantas-medic-tema3 Sus frutos se usan como revulsivos y como ungüentos en tratamiento de lumbagos y neuralgias.
+          
+          .row(titulo="Árnica <em>Arnica montana L.</em>")
+            
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/img7-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
+                //figcaption Leyenda de la imagen
+
+            .col-md-6.mb-4.mb-md-0
+              p.txt-plantas-medic-tema3 Cicatrizante, antiinflamatorio, analgésico y antineurálgico.
+          
+           
+          
+          .row(titulo="Belladona - Botón negro <em>Atropa belladonna L.</em>")
+
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/img8-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
+                //figcaption Leyenda de la imagen
+
+            .col-md-6.mb-4.mb-md-0
+              p.txt-plantas-medic-tema3 Antiséptico y cicatrizante, ayuda en afecciones cutáneas y alérgicas.
+          
       
-      p Las plantas medicinales ejercen efectos de curación, además de un amplio potencial que efectúan sobre el desarrollo sostenible de la producción. Colombia, gracias a su diversidad de climas y variedad de sus suelos, propicia que las plantas se adapten fácilmente, con óptimas condiciones, favoreciendo su reproducción vegetal. 
-      p A continuación, se dan a conocer las principales plantas medicinales en uso veterinario.
+          .row(titulo="Sábila Aloe vera L.")
+            
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/img9-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
+                //figcaption Leyenda de la imagen
 
-
-      AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-
-        .row(titulo="Mango <em>Mangifera indica</em>")
-        
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/img1-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
-              //figcaption Leyenda de la imagen
+            .col-md-6.mb-4.mb-md-0
+              p.txt-plantas-medic-tema3 Por vía oral trata la hipertensión, el reumatismo y las úlceras. Tópicamente, se emplea en el tratamiento del acné, la dermatitis, las irritaciones de la piel y como cicatrizante.
           
-          .col-md-6.mb-4.mb-md-0
-            p.txt-plantas-medic-tema3 Se usa para inflamación y quebraduras en vacas y cerdos.
+       
 
+    br
+    br
+    br
 
-        
-        .row(titulo="Anís <em>Pimpinella anisum L.</em>")   
+    .row.container.justify-content-around.align-items-align-items-center
 
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/img2-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
-              //figcaption Leyenda de la imagen
-          
-          .col-md-6.mb-4.mb-md-0
-            p.txt-plantas-medic-tema3 Cuenta con propiedades antisépticas y es repelente de insectos
+        .row 
+          .col-lg-7
 
+            p Una vez garantizado el bienestar animal, puede centrarse en otras actividades como la reproducción de las especies. La reproducción es el fenómeno central de la vida y desempeña un papel fundamental en la preservación de las especies. A través de este proceso, los seres vivos se multiplican y dan origen a nuevos seres. 
+            p A continuación, se describe el aparato reproductor masculino.
 
-        .row(titulo="Algarrobo <em>Hymenaea courbaril L.</em>")
-
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/img3-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
-              //figcaption Leyenda de la imagen
-
-          .col-md-6.mb-4.mb-md-0
-            p.txt-plantas-medic-tema3 Controla parásitos intestinales e infecciones urinarias.
-        
-
-
-        
-        .row(titulo="Albahaca <em>Ocimun basilicum L.</em>")
-          .col-md-6.mb-4.mb-md-0
-            p.txt-plantas-medic-tema3 Ayuda en afecciones gastrointestinales.
-        
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/img5-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
-              //figcaption Leyenda de la imagen
-
-
-
-        .row(titulo="Ajenjo <em>Artemisia absinthium L.</em>")
-          .col-md-6.mb-4.mb-md-0
-            p.txt-plantas-medic-tema3 Tónico estomacal, antiespasmódico, antiácido, estimulante del apetito, benéfico en afecciones de la vesícula biliar.
-        
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/img6-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
-              //figcaption Leyenda de la imagen
-
-        
-        .row(titulo="Ají <em>Capsicum annuum var.</em>")
-          .col-md-6.mb-4.mb-md-0
-            p.txt-plantas-medic-tema3 Sus frutos se usan como revulsivos y como ungüentos en tratamiento de lumbagos y neuralgias.
-        
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/img6-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
-              //figcaption Leyenda de la imagen
-
-        .row(titulo="Árnica <em>Arnica montana L.</em>")
-          .col-md-6.mb-4.mb-md-0
-            p.txt-plantas-medic-tema3 Cicatrizante, antiinflamatorio, analgésico y antineurálgico.
-        
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/img7-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
-              figcaption Leyenda de la imagen
-
-        
-        .row(titulo="Belladona - Botón negro <em>Atropa belladonna L.</em>")
-          .col-md-6.mb-4.mb-md-0
-            p.txt-plantas-medic-tema3 Antiséptico y cicatrizante, ayuda en afecciones cutáneas y alérgicas.
-        
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/img8-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
-              //figcaption Leyenda de la imagen
-
-        .row(titulo="Sábila Aloe vera L.")
-          .col-md-6.mb-4.mb-md-0
-            p.txt-plantas-medic-tema3 Por vía oral trata la hipertensión, el reumatismo y las úlceras. Tópicamente, se emplea en el tratamiento del acné, la dermatitis, las irritaciones de la piel y como cicatrizante.
-        
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/img9-plantas-medic-tema3.png', alt='Texto que describa la imagen').img-plantas-medic-tema3
-              //figcaption Leyenda de la imagen
-
-
-  br
-  br
-  br
-
-  .row.container.justify-content-around.align-items-align-items-center
-
-      .row 
-        .col-lg-7
-
-          p Una vez garantizado el bienestar animal, puede centrarse en otras actividades como la reproducción de las especies. La reproducción es el fenómeno central de la vida y desempeña un papel fundamental en la preservación de las especies. A través de este proceso, los seres vivos se multiplican y dan origen a nuevos seres. 
-          p A continuación, se describe el aparato reproductor masculino.
-
-        .col-lg-5
-            figure
-              img(src='@/assets/curso/temas/img-final-tema3.png', alt='Texto que describa la imagen').img-final-tema3
+          .col-lg-5
+              figure
+                img(src='@/assets/curso/temas/img-final-tema3.png', alt='Texto que describa la imagen').img-final-tema3
         
 
 

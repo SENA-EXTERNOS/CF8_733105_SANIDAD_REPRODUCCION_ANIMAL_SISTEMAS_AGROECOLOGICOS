@@ -104,6 +104,7 @@
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/img-poestro-tema4.png', alt='Texto que describa la imagen').img-acord-tema4
+              p.txt-proestro-tema4 Proestro: periodo donde pre-maduran los folículos.
                 //figcaption Leyenda de la imagen
 
 
@@ -127,6 +128,7 @@
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/img-estro-tema4.png', alt='Texto que describa la imagen').img-acord-tema4
+                p.txt-estro-tema4 Estro: celo o calor, fase donde se rompe el folículo y es el momento adecuado para que la hembra acepte el macho para la cúpula.
                 //figcaption Leyenda de la imagen
 
           .row(titulo="METAESTRO")
@@ -147,6 +149,7 @@
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/img-metaestro-tema4.png', alt='Texto que describa la imagen').img-acord-tema4
+                p.txt-mataestro-tema4 Mataestro: fase de formación del cuerpo lúteo.
                 //figcaption Leyenda de la imagen
 
           
@@ -165,6 +168,7 @@
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/img-diestro-tema4.png', alt='Texto que describa la imagen').img-acord-tema4
+                p.txt-diestro-tema4 Diestro: el cuerpo lúteo, produce grandes cantidades de progesterona.
                 //figcaption Leyenda de la imagen
 
         p En los animales mamíferos las hembras, hasta la pubertad, no pueden preñarse, lo que solo es posible cuando los ovarios se encuentran maduros. El proceso de ovulación está ligado a la alimentación, a factores genéticos y a factores ambientales durante el levante, ya que afectan el estado hormonal y el peso corporal de la vaca para su adecuada reproducción.
@@ -181,9 +185,9 @@
           .col-sm-6.col-lg-3.mb-4.mb-lg-0
             .tarjeta--boton.color-acento-botones.tarj-ciclo-estral.p-4
               .row.justify-content-center.mb-3
-                .col-7
+                .col-10
                   figure
-                    img(src='@/assets/curso/temas/img-vaca-ciclo-tema4.png', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/img-vaca-ciclo-tema4.png', alt='Texto que describa la imagen').img-ciclo-estral-tema4
 
               h3.text-center Vaca
               p.text-small Inicio y duración de la pubertad: 7- 18 meses
@@ -193,9 +197,9 @@
           .col-sm-6.col-lg-3.mb-4.mb-lg-0
             .tarjeta--boton.color-acento-botones.tarj-ciclo-estral.p-4
               .row.justify-content-center.mb-3
-                .col-7
+                .col-10
                   figure
-                    img(src='@/assets/curso/temas/img-yegua-tema4.png', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/img-yegua-tema4.png', alt='Texto que describa la imagen').img-ciclo-estral-tema4
 
               h3.text-center Yegua
               p.text-small Inicio y duración de la pubertad: 18 meses
@@ -205,9 +209,9 @@
           .col-sm-6.col-lg-3.mb-4.mb-sm-0
             .tarjeta--boton.color-acento-botones.tarj-ciclo-estral.text-white--hover.p-4
               .row.justify-content-center.mb-3
-                .col-7
+                .col-10
                   figure
-                    img(src='@/assets/curso/temas/img-oveja-tema4.png', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/img-oveja-tema4.png', alt='Texto que describa la imagen').img-ciclo-estral-tema4
 
               h3.text-center Oveja
               p.text-small Inicio y duración de la pubertad: 9 a 15 meses
@@ -219,9 +223,9 @@
           .col-sm-6.col-lg-3
             .tarjeta--boton.color-acento-botones.tarj-ciclo-estral.p-4
               .row.justify-content-center.mb-3
-                .col-7
+                .col-10
                   figure
-                    img(src='@/assets/curso/temas/img-cerda-tema4.png', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/img-cerda-tema4.png', alt='Texto que describa la imagen').img-ciclo-estral-tema4
 
               h3.text-center Cerda
               p.text-small Inicio y duración de la pubertad: 6 a 8 meses
@@ -231,9 +235,9 @@
           .col-sm-6.col-lg-3
             .tarjeta--boton.color-acento-botones.tarj-ciclo-estral.p-4
               .row.justify-content-center.mb-3
-                .col-7
+                .col-10
                   figure
-                    img(src='@/assets/curso/temas/img-cabra-tema4.png', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/img-cabra-tema4.png', alt='Texto que describa la imagen').img-ciclo-estral-tema4
 
               h3.text-center Cabra
               p.text-small Inicio y duración de la pubertad: 4 a 8 meses 
@@ -281,8 +285,8 @@
               .col-md-6.mb-4.mb-md-0
                 h4.img-slider-tema4 Ayudas para detectar el celo en bovinos
                 p.img-slider-tema4 Otras ayudas que se usan para detectar el celo son:
-                p.img-slider-tema4 Toros calentadores: animales que, mediante una intervención quirúrgica, se les modificó el aparato reproductor, bien sea con vasectomía o desviación de pene, aislando las excreciones testiculares.
-                p.img-slider-tema4 Hembras androgenizadas: hembras que, por presentar problemas reproductivos, poseen características masculinas. Además de haber empleado testosterona.
+                p.img-slider-tema4 #[strong Toros calentadores:] animales que, mediante una intervención quirúrgica, se les modificó el aparato reproductor, bien sea con vasectomía o desviación de pene, aislando las excreciones testiculares.
+                p.img-slider-tema4 #[strong Hembras androgenizadas:] hembras que, por presentar problemas reproductivos, poseen características masculinas. Además de haber empleado testosterona.
 
               .col-md-6
                 figure
@@ -342,13 +346,13 @@
                   ul.lista-ul--color.txt-pestanas-tema4
                     li 
                       i.fas.fa-atom
-                      | Aplicación de progestágenos: vienen en tres presentaciones, de vía oral, para suministrar a través del alimento, de implantes cutáneos y de dispositivos vaginales. Estos se encargan de formar bloqueo en el hipotálamo, simulando una fase lútea, inhibiendo el celo y la producción de óvulos hasta que son retirados.
+                      p #[strong Aplicación de progestágenos:] vienen en tres presentaciones, de vía oral, para suministrar a través del alimento, de implantes cutáneos y de dispositivos vaginales. Estos se encargan de formar bloqueo en el hipotálamo, simulando una fase lútea, inhibiendo el celo y la producción de óvulos hasta que son retirados.
                     li 
                       i.fas.fa-atom
-                      | Uso de prostaglandinas: este tipo de hormonas producen variación en la estructura del ovario, controla la producción de progesterona y marcan el ciclo estral.
+                      p #[strong Uso de prostaglandinas:] este tipo de hormonas producen variación en la estructura del ovario, controla la producción de progesterona y marcan el ciclo estral.
                     li 
                       i.fas.fa-atom
-                      | Suministro de estrógenos con progesterona: optimiza el proceso de ovulación y aumenta el celo.
+                      p #[strong Suministro de estrógenos con progesterona:] optimiza el proceso de ovulación y aumenta el celo.
     
                 .col-md-6.mb-4.mb-md-0
                   figure

@@ -138,10 +138,13 @@
                     i.fas.fa-chain
           
         p.txt-inf-man-anim-tema1 Como se expone a continuación, la marcación o identificación de los animales, tiene el objetivo de llevar un control adecuado al facilitar su identificación en los registros de productividad y sanidad. 
+    
+    br
+    br
+    br
 
-    br
-    br
-    br
+    separador
+    
     br
 
     .row.container.justify-content-around.align-items-align-items-center
@@ -157,8 +160,8 @@
                 img(data-aos="fade-right")(src='@/assets/curso/temas/img-id-animal-tema1.png', alt='Texto que describa la imagen').img-id-animal-tema1
      
 
-          .col-lg-8
-
+          .col-lg-8.container
+              .bloque-color-ident-animal-tema1
               p.txt-id-animal-tema1 Como toda actividad económica, la producción animal es una empresa que busca rentabilidad y aumento en los índices de productividad. Así, asignar un número individual a cada uno de los ejemplares, facilita llevar registros y, de esta manera, se controlan parámetros productivos y reproductivos y se analizan aspectos económicos, lo que permite descartar animales menos eficaces. A continuación, se enumeran los sistemas de identificación más usados.
         
         .row.container.bloque-slider-tema1
@@ -229,9 +232,12 @@
                         //figcaption Leyenda de la imagen
 
         p.txt-inf-slider Las labores de sujeción e inmovilización de los animales, en fincas tecnificadas, cuentan con una infraestructura apropiada para realizar prácticas de manejo, por lo cual, al momento de ejecutar estas prácticas, se debe contar con estructuras como las que se describen a continuación.
-   
+    
     br
     br
+
+    separador
+    
     br
 
     .row.container.justify-content-around.align-items-align-items-center
@@ -271,10 +277,12 @@
                     //figcaption Leyenda de la imagen
 
         p.txt-final-pestanas-horiz-tema1 Entre otras actividades a tener en cuenta para el manejo de animales, se encuentra el transporte y la inmovilización, actividades necesarias para el proceso de descarte y la comercialización.
+    br
 
+    separador
+    
     br
-    br
-    br
+    
 
     .row.container.justify-content-around.align-items-align-items-center
 
@@ -284,7 +292,7 @@
 
         .row.fondo-final-tema1 
           .col-lg-7
-            .txt-tarj-final-tema1.p-4
+            .txt-tarj-final-tema1.p-3
               p En el traslado de animales, de un lugar a otro, es importante tener en cuenta el bienestar animal para evitar afectaciones en la calidad del producto. En Colombia se realiza este proceso cuando se requiere trasladar ejemplares a distintos predios para culminar el proceso productivo, cuando hay venta de animales o al finalizar procesos y enviarlos a sacrificio. 
               p Todas las especies de explotación pecuaria son transportadas de la misma forma y, por lo general, se realizan de forma terrestre. Aunque, al realizar exportaciones, estas se hacen por vía aérea o marítima.
 

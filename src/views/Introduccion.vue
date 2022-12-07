@@ -14,6 +14,7 @@
 
       .col-lg-8
           p.mb-0 Apreciado aprendiz, bienvenido a este componente formativo. A continuación, se abordará la sanidad y la reproducción animal en sistemas pecuarios, según los ciclos estrales de cada especie, empleando métodos de estimulación e inseminación artificial. Así mismo, se espera desarrollar competencias para el manejo de especies conforme a los criterios técnicos y a la normativa de producción agropecuaria, fundada en principios ecológicos. También, se plantearán temáticas relacionadas con la aplicación de medidas sanitarias, de tratamientos convencionales o de tratamiento etnoveterinario, en el cual, las plantas juegan un papel fundamental con sus principios fitoquímicos. 
+          br
           p Otro aspecto importante a desarrollar, es la ejecución de labores cruciales en lo respectivo a la reproducción animal, en aras de optimizar rendimientos o de realizar actividades seguras para el animal en su posterior comercialización y consumo, teniendo en cuenta, claro está, la seguridad de las personas que las realizan las labores de manejo.
           p Antes de iniciar, está invitado a observar el siguiente video de introducción sobre sanidad y reproducción animal en sistemas agroecológicos. Se augura mucho éxito en su formación. Ánimo.
 

@@ -21,25 +21,29 @@
               p La inseminación es una herramienta de gran importancia y utilidad en granjas tecnificadas y en producciones pequeñas, al brindar una variedad de ventajas a las fincas de producción pecuaria. Muchas granjas manejan el 100% de sus servicios con este método, otras combinan la inseminación con la monta natural.
               ul.lista-ul--color
                 li 
-                  i.fas.fa-brain
+                  i.fas.fa-atom
                   | Disminución de transmisión de patologías.
                 li 
-                  i.fas.fa-compass
+                  i.fas.fa-atom
                   | Se evita la presencia de reproductores que puedan portar enfermedades.
                 li 
-                  i.fas.fa-eye
+                  i.fas.fa-atom
                   | Mejorar el potencial genético de la finca.
                 li
-                  i.fas.fa-eye
+                  i.fas.fa-atom
                   | Se controlan los riesgos de traumas ocasionados durante la monta directa.
                 li 
-                  i.fas.fa-eye
+                  i.fas.fa-atom
                   | Usando pajillas de alto valor genético, se mejora la producción de carnes y, con ello, se amplían los rendimientos económicos.
                 li 
-                  i.fas.fa-eye
+                  i.fas.fa-atom
                   | Se evita la consanguinidad.  
           
           .col-lg-6
+
+              .titulo-sexto.color-acento-contenido.mb-3
+                h5 Figura 6.
+                span <em>Libertades del bienestar animal</em>
           
               figure
                   img(data-aos="fade-left")(src='@/assets/curso/temas/img1-tema5.png', alt='Texto que describa la imagen').img1-tema5
@@ -51,11 +55,16 @@
 
     .row.container.justify-content-around.align-items-align-items-center
 
+        #identificacion-del-animal
+        .titulo-segundo.color-secundario
+          h2 5.1 Equipos, herramientas y materiales para la inseminación artificial
+    
+
         .row.bloque-tarj1-man-anim-tema5
           .col-lg-10.fondo-tarj1-man-anim-tema1.tarjeta.p-4
             .row 
               .col-lg-2
-                    img(src='@/assets/curso/temas/img3-etap-prod-tema1.png', alt='Texto que describa la imagen').img1-man-anim-tema1
+                    img(src='@/assets/curso/temas/img-cerdo-tema5.png', alt='Texto que describa la imagen').img1-man-anim-tema1
               
               .col-lg-8
 

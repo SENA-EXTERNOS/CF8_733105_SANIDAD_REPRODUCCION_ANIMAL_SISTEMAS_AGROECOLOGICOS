@@ -26,6 +26,11 @@
     br
 
     .row.container.justify-content-around.align-items-align-items-center
+        
+        figure
+            img(src="@/assets/curso/temas/img-fondo-izq-tema2.png", alt="alt").img-fondo-izq-tema2
+        
+        
 
         #enfermedades-de-las-especies-pecuarias
         .titulo-segundo.color-secundario
@@ -190,7 +195,7 @@
 
         #plan-sanitario
         .titulo-segundo.color-secundario
-          h2 2.3 Plan sanitario
+          h2 2.2 Plan sanitario
 
         p Está dirigido, básicamente, a controlar, prevenir y erradicar enfermedades que afecten los sistemas de producción agropecuaria. Su objetivo es reforzar los trabajos de manejo y diagnóstico, con el fin de disminuir los riesgos que afectan la sanidad del hato. 
         p A continuación, se describe el plan de vacunación para los bovinos.
