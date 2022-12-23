@@ -48,9 +48,12 @@
 
         .row.justify-content-center.mb-5
 
-          .col-lg-4
+          .col-lg-4.fondo-tarj-sist-fem-tema4.tarjeta.p-4
+            .titulo-sexto.color-acento-contenido.mb-3
+                h5 Figura 4.
+                span <em>Órganos del aparato reproductor femenino</em>
             figure
-              img(src="@/assets/curso/temas/img-pasos-vert-tema4.png", alt="alt").img-pasos-vert-tema4
+              img(src="@/assets/curso/temas/img2-repr-fem-tema4.png", alt="alt").img2-repr-fem-tema4
           .col-lg-8
             LineaTiempoD.color-secundario
               p(numero="1" titulo="Ovarios") Producen las células germinales, óvulos, además de las hormonas sexuales femeninas. Regulan la función de los órganos genitales.

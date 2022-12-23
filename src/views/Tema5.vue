@@ -64,15 +64,15 @@
           .col-lg-10.fondo-tarj1-man-anim-tema1.tarjeta.p-4
             .row 
               .col-lg-2
-                    img(src='@/assets/curso/temas/img-cerdo-tema5.png', alt='Texto que describa la imagen').img1-man-anim-tema1
+                    img(src='@/assets/curso/temas/img-cerdo-tema5.png', alt='Texto que describa la imagen').img1-man-anim-tema5
               
               .col-lg-8
 
-                  p.txt-tarj1-man-anim-tema1 Manejo de ternera, novilla y vaca lactante
+                  p.txt-tarj1-man-anim-tema1 Manejo de cerdos según etapa productiva
 
               .col-lg-2
                 .boton-tarj1-man-anim-tema1
-                  a.boton.boton--b(:href="obtenerLink('/downloads/anexo_4 Estandares y normas.pdf')" target="_blank")
+                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_5_ etapa_productiva_cerdos_compressed.pdf')" target="_blank")
                     .anexo__texto
                     span Ver enlace
                     i.fas.fa-chain
@@ -85,7 +85,9 @@
     br
 
     .row.container.justify-content-around.align-items-align-items-center
-
+        
+        h3.subtitulo-de-pajillas Descongelación de pajillas
+        
         .row 
             .col-lg-6
               .cajon.color-acento-botones.p-4

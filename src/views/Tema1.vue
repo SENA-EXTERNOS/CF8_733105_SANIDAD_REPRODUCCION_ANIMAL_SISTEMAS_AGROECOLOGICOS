@@ -103,7 +103,7 @@
           .col-lg-10.fondo-tarj1-man-anim-tema1.tarjeta.p-4
             .row 
               .col-lg-2
-                    img(src='@/assets/curso/temas/img2-etap-prod-tema1.png', alt='Texto que describa la imagen').img1-man-anim-tema1
+                    img(src='@/assets/curso/temas/img2-etap-prod-tema1.png', alt='Texto que describa la imagen').img2-man-anim-tema1
               
               .col-lg-8
 
@@ -124,7 +124,7 @@
           .col-lg-10.fondo-tarj1-man-anim-tema1.tarjeta.p-4
             .row 
               .col-lg-2
-                    img(src='@/assets/curso/temas/img3-etap-prod-tema1.png', alt='Texto que describa la imagen').img1-man-anim-tema1
+                    img(src='@/assets/curso/temas/img3-etap-prod-tema1.png', alt='Texto que describa la imagen').img3-man-anim-tema1
               
               .col-lg-8
 
@@ -136,6 +136,7 @@
                     .anexo__texto
                     span Ver enlace
                     i.fas.fa-chain
+                    
           
         p.txt-inf-man-anim-tema1 Como se expone a continuación, la marcación o identificación de los animales, tiene el objetivo de llevar un control adecuado al facilitar su identificación en los registros de productividad y sanidad. 
     
@@ -253,8 +254,8 @@
             .py-3.py-md-4(titulo="Sujeción de bovinos.")
               .row
                 .col-md-12.mb-4.mb-md-0
-                  h4 Sujeción de bovinos
-                  p En toda explotación se deben realizar castraciones, marcajes y suministrar medicinas, actividades en las cuales se debe derribar o controlar los animales para evitar que, durante estos procedimientos, se afecte la salud del ejemplar o del operario. Algunos predios solo cuentan con botalón para efectuar estas medidas.
+                  //h4 Sujeción de bovinos
+                  p.txt-sujecion-bobinos En toda explotación se deben realizar castraciones, marcajes y suministrar medicinas, actividades en las cuales se debe derribar o controlar los animales para evitar que, durante estos procedimientos, se afecte la salud del ejemplar o del operario. Algunos predios solo cuentan con botalón para efectuar estas medidas.
               
               .row
                 .col-md-12
@@ -266,9 +267,9 @@
             .py-3.py-md-4(titulo="Cómo sujetar cerdos")
               .row    
                 .col-md-12
-                  h4 Sujeción de bovinos
-                  p Los métodos por efectuar dependen de algunas variables, por ejemplo, del tipo de explotación, el sexo, la edad o del tipo de proceso que se va a ejecutar (Voogd, 2018). 
-                  p A continuación, se explican algunos de los métodos de sujeción para bovinos y porcinos.
+                  //h4 Sujeción de bovinos
+                  p.txt-sujecion-bobinos Los métodos por efectuar dependen de algunas variables, por ejemplo, del tipo de explotación, el sexo, la edad o del tipo de proceso que se va a ejecutar (Voogd, 2018). 
+                  p.txt-sujecion-bobinos A continuación, se explican algunos de los métodos de sujeción para bovinos y porcinos.
 
               .row
                 .col-md-12.mb-4.mb-md-0

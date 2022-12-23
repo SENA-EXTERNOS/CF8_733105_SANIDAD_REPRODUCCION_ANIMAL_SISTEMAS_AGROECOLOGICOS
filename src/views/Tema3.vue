@@ -63,7 +63,10 @@
                 figure
                   img(src='@/assets/curso/temas/img4-slider-tema3.png', alt='Texto que describa la imagen').img-slider-tema3
                   //figcaption Leyenda de la imagen
+
+        p.txt-final-tarj1-tema3 A continuación, en el siguiente link, se encuentran los medicamentos, en medicina veterinaria, que se emplean para la sanidad animal, especialmente de porcinos y bovinos. Está invitado a explorar estas recomendaciones y los medicamentos principales para el tratamiento de enfermedades en porcinos y bovinos. Ánimo.
     
+    br
     br
     br
     br
