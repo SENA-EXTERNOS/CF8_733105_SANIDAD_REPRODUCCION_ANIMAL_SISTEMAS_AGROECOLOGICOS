@@ -87,7 +87,7 @@
               
               .col-lg-8
 
-                  p.txt-tarj1-man-anim-tema1 Manejo de ternera, novilla y vaca lactante
+                  h3.txt-tarj1-man-anim-tema1 Manejo de ternera, novilla y vaca lactante
 
               .col-lg-2
                 .boton-tarj1-man-anim-tema1
@@ -107,7 +107,7 @@
               
               .col-lg-8
 
-                  p.txt-tarj1-man-anim-tema1 Manejo de bovinos para producción de carne
+                  h3.txt-tarj1-man-anim-tema1 Manejo de bovinos para producción de carne
 
               .col-lg-2
                 .boton-tarj1-man-anim-tema1
@@ -128,7 +128,7 @@
               
               .col-lg-8
 
-                  p.txt-tarj1-man-anim-tema1 Manejo de cerdos según su etapa productiva
+                  h3.txt-tarj1-man-anim-tema1 Manejo de cerdos según su etapa productiva
 
               .col-lg-2
                 .boton-tarj1-man-anim-tema1

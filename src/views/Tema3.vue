@@ -94,7 +94,7 @@
               
               .col-lg-8
 
-                  p.txt-tarj1-man-anim-tema1 Medicamentos para bovinos y porcinos.
+                  h3.txt-tarj1-man-anim-tema1 Medicamentos para bovinos y porcinos.
 
               .col-lg-2
                 .boton-tarj1-man-anim-tema1
