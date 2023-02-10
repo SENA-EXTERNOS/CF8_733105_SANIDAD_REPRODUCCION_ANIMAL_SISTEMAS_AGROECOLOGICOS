@@ -77,7 +77,7 @@
     .row.container.justify-content-around.align-items-align-items-center
         
         h3.mb-4 Manejo de animales por etapa productiva
-        p A continuación, encontrará tres botones, al hacer clic sobre ellos, se desplegará información detallada sobre el manejo de los animales según cada etapa de su desarrollo.
+        p Para profundizar acerca de manejo animal por etapa reproductiva, consulte los siguientes anexos los cuales tienen información detallada sobre el manejo según cada etapa de desarrollo:
 
         .row.bloque-tarj1-man-anim-tema1
           .col-lg-10.fondo-tarj1-man-anim-tema1.tarjeta.p-4
@@ -107,11 +107,11 @@
               
               .col-lg-8
 
-                  p.txt-tarj1-man-anim-tema1 Manejo de cerdos según su etapa productiva
+                  p.txt-tarj1-man-anim-tema1 Manejo de bovinos para producción de carne
 
               .col-lg-2
                 .boton-tarj1-man-anim-tema1
-                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_5_ etapa_productiva_cerdos_compressed.pdf')" target="_blank")
+                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_4_etapa_productiva_carne_compressed.pdf')" target="_blank")
                     .anexo__texto
                     span Ver enlace
                     i.fas.fa-chain
@@ -128,17 +128,16 @@
               
               .col-lg-8
 
-                  p.txt-tarj1-man-anim-tema1 Manejo de ternera, novilla y vaca lactante
+                  p.txt-tarj1-man-anim-tema1 Manejo de cerdos según su etapa productiva
 
               .col-lg-2
                 .boton-tarj1-man-anim-tema1
-                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_4_etapa_productiva_carne_compressed.pdf')" target="_blank")
+                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_5_ etapa_productiva_cerdos_compressed.pdf')" target="_blank")
                     .anexo__texto
                     span Ver enlace
                     i.fas.fa-chain
                     
           
-        p.txt-inf-man-anim-tema1 Como se expone a continuación, la marcación o identificación de los animales, tiene el objetivo de llevar un control adecuado al facilitar su identificación en los registros de productividad y sanidad. 
     
     br
     br
@@ -163,7 +162,10 @@
 
           .col-lg-8.container
               .bloque-color-ident-animal-tema1
-              p.txt-id-animal-tema1 Como toda actividad económica, la producción animal es una empresa que busca rentabilidad y aumento en los índices de productividad. Así, asignar un número individual a cada uno de los ejemplares, facilita llevar registros y, de esta manera, se controlan parámetros productivos y reproductivos y se analizan aspectos económicos, lo que permite descartar animales menos eficaces. A continuación, se enumeran los sistemas de identificación más usados.
+              p.txt-id-animal-tema1 La marcación o identificación de los animales, tiene el objetivo de llevar un control adecuado, al facilitar su identificación en los registros de productividad y sanidad; la siguiente información describe este proceso:
+                br
+                br
+                |Como toda actividad económica, la producción animal es una empresa que busca rentabilidad y aumento en los índices de productividad. Así, asignar un número individual a cada uno de los ejemplares, facilita llevar registros y, de esta manera, se controlan parámetros productivos y reproductivos y se analizan aspectos económicos, lo que permite descartar animales menos eficaces. A continuación, se enumeran los sistemas de identificación más usados.
         
         .row.container.bloque-slider-tema1
             

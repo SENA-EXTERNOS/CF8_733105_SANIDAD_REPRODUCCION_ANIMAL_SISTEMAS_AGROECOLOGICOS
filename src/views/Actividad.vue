@@ -12,7 +12,7 @@
 
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Falso y verdadero
+          h2 Sanidad y reproducción animal en sistemas agroecológicos
         p.mb-4 Con el objetivo de afianzar los conceptos vistos dentro del componente, realice la siguiente actividad didáctica de falso y verdadero. Se le sugiere realizar un repaso con la finalidad de reforzar sus conocimientos.
 
         .tarjeta.actividad.p-3

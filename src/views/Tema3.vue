@@ -80,17 +80,21 @@
       
       h3 Medicamentos
       p Está invitado a explorar los principales medicamentos que se emplean para la sanidad animal en el tratamiento de enfermedades en porcinos y bovinos:
-
+    
+      .row.justify-content-center.mb-3
+        .col-lg-10
+          .cajon.color-acento-botones.p-4
+            p.mb-0 Los medicamentos son sustancia de origen química, sintética o natural, usada para la curación, prevención y alivio de una enfermedad que afecta el normal funcionamiento del organismo del animal.
 
       .row.bloque-tarj1-man-anim-tema1
           .col-lg-10.fondo-tarj1-man-anim-tema1.tarjeta.p-4
             .row 
               .col-lg-2
-                    img(src='@/assets/curso/temas/img2-etap-prod-tema1.png', alt='Texto que describa la imagen').img1-man-anim-tema1
+                    img(src='@/assets/curso/temas/img-etap-prod-tema1.png', alt='Texto que describa la imagen').img1-man-anim-tema1
               
               .col-lg-8
 
-                  p.txt-tarj1-man-anim-tema1 Medicamentos para bovinos
+                  p.txt-tarj1-man-anim-tema1 Medicamentos para bovinos y porcinos.
 
               .col-lg-2
                 .boton-tarj1-man-anim-tema1
@@ -110,9 +114,16 @@
     .row.container.justify-content-around.align-items-align-items-center
 
         h3 Equipos e instrumental
-        
-        p En toda explotación pecuaria es necesario contar equipos que faciliten los procesos de aplicación de medicamentos, de inmovilización, de intervenciones quirúrgicas, de detención de malestares para el manejo de patologías causadas por bacterias, hongos, virus o protozoos, y de inflamaciones, producto de algún golpe, o de heridas causadas por objetos cortopunzantes o por actividades de manejo mal hechas. 
-        p Dentro de los equipos más usados se encuentran:
+        .row.justify-content-center.mb-5
+          .col-lg-7
+            p Existen herramientas e implementos instrumentales para el manejo de la sanidad animal; es importante contar con ellas para el manejo de la producción pecuaria, y deben estar correctamente desinfectadas y almacenadas en condiciones mínimas sanitarias, garantizando una segura manipulación y evitando la propagación de enfermedades de contacto.
+              br
+              br
+              |En toda explotación pecuaria es necesario contar equipos que faciliten los procesos de aplicación de medicamentos, de inmovilización, de intervenciones quirúrgicas, de detención de malestares para el manejo de patologías causadas por bacterias, hongos, virus o protozoos, y de inflamaciones, producto de algún golpe, o de heridas causadas por objetos cortopunzantes o por actividades de manejo mal hechas.
+              br
+              br
+              |Dentro de los equipos más usados se encuentran:
+          .col-lg-5: img(src='@/assets/curso/temas/v1.png', alt='')
 
         ImagenInfografica.color-primario
           template(v-slot:imagen)
@@ -190,7 +201,7 @@
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/temas/img3-tarj-tema3.png', alt='Texto que describa la imagen').img-tarj-avatar-tema3
+                    img(src='@/assets/curso/temas/img2-tarj-tema3.png', alt='Texto que describa la imagen').img-tarj-avatar-tema3
               .txt-tarj-avatar-tema3
                 h3.text-center Producto biológico
                 p.text-small Producto extraído de un organismo vivo, empleado para realizar control biológico de enfermedades.

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 7
-      h1 Registros
+      h1 Registros reproductivos 
     .row.justify-content-center.mb-5
       .col-lg-10
         .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5
@@ -15,11 +15,12 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Los registros de producción están diseñados para brindar información, controlar la producción de cada animal y su consumo de alimento, de forma que, el productor, pueda calcular los beneficios obtenidos. Este censo, o registro, es necesario tanto para la toma de decisiones, como para maximizar la rentabilidad de la producción. 
     .row.container.justify-content-around.align-items-align-items-center
-        p A continuación, se dan ejemplos de registros productivos.
+        p A continuación, se dan ejemplos de registros productivos:
               
         .titulo-sexto.color-acento-contenido.mb-3
-            h5 Figura 9. 
-            span <em>Registros reproductivos en las especies pecuarias</em>
+            h5 Tabla 1 
+            br
+            span <em>Registros de reproducción en cerdas y bovinos</em>
 
         .row.justify-content-center.mb-5
           .col-lg-12

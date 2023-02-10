@@ -18,6 +18,10 @@
         .row.justify-content-center.mb-5
 
           .col-lg-4
+            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+              h5 Figura 3
+              br
+              span.fst-italic Partes del aparato reproductor masculino 
             figure
               img(src="@/assets/curso/temas/img-pasos-vert-tema4.png", alt="alt").img-pasos-vert-tema4
           .col-lg-8
@@ -54,7 +58,8 @@
 
           .col-lg-4.fondo-tarj-sist-fem-tema4.tarjeta.p-4
             .titulo-sexto.color-acento-contenido.mb-3
-                h5 Figura 4.
+                h5 Figura 4
+                br
                 span <em>Órganos del aparato reproductor femenino</em>
             figure
               img(src="@/assets/curso/temas/img2-repr-fem-tema4.png", alt="alt").img2-repr-fem-tema4
@@ -87,6 +92,10 @@
 
         .row 
           .col-lg-12
+            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+              h5 Figura 5
+              br
+              span.fst-italic Ciclo estral
             figure
               img(data-aos="fade-left")(src="@/assets/curso/temas/img-ciclo-estral.png", alt="alt").img-ciclo-estral
             
@@ -229,7 +238,7 @@
                 br
                 | Duración del celo: 17 días
 
-        .row.fila2-tarj-ciclo-estral
+        .row.fila2-tarj-ciclo-estral.mb-5
 
           .col-sm-6.col-lg-3
             .tarjeta--boton.color-acento-botones.tarj-ciclo-estral.p-4
@@ -254,7 +263,7 @@
               p.text-small Inicio y duración de la pubertad: 4 a 8 meses 
                 br
                 | Duración del celo: 21 días
-        .row.justify-content-center.mb-5
+        .row.justify-content-center.my-5
           .col-lg-8
             .cajon.color-primario.p-4.mb-4(style="background-color: #fff2df ")
               p.mb-0 Para que se produzca el celo en la hembra, como se mencionó anteriormente, es necesario que el hipotálamo, la hipófisis y los ovarios generen hormonas e interactúen, de forma sincronizada, para dar inicio a los procesos reproductivos.

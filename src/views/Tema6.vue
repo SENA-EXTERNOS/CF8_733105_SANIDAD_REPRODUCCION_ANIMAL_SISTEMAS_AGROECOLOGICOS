@@ -19,6 +19,10 @@
         
         .row.justify-content-center.mb-5
           .col-lg-6
+            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+              h5 Figura 8
+              br
+              span.fst-italic Monta natural
             figure
               img(data-aos="fade-right")(src="@/assets/curso/temas/img1-tema6.png", alt="alt").img1-tema6
 

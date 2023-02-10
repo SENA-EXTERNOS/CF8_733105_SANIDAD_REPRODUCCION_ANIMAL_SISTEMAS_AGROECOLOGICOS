@@ -26,7 +26,7 @@
           .col-lg-6
           
             .cajon.color-acento-contenido.p-4(style="background-color: #f2f8e8")
-              p La inseminación es una herramienta de gran importancia y utilidad en granjas tecnificadas y en producciones pequeñas, al brindar una variedad de ventajas a las fincas de producción pecuaria. Muchas granjas manejan el 100% de sus servicios con este método, otras combinan la inseminación con la monta natural.
+              p La inseminación es una herramienta de gran importancia y utilidad en granjas tecnificadas y en producciones pequeñas, al brindar una variedad de ventajas a las fincas de producción pecuaria. Muchas granjas manejan el 100 % de sus servicios con este método, otras combinan la inseminación con la monta natural. Es así, como se describen sus ventajas:
               ul.lista-ul--color
                 li 
                   i.fas.fa-atom
@@ -50,8 +50,9 @@
           .col-lg-6
 
               .titulo-sexto.color-acento-contenido.mb-3
-                h5 Figura 6.
-                span <em>Libertades del bienestar animal</em>
+                h5 Figura 6
+                br
+                span <em>Proceso de inseminación artificial</em>
           
               figure
                   img(data-aos="fade-left")(src='@/assets/curso/temas/img1-tema5.png', alt='Texto que describa la imagen').img1-tema5
@@ -105,7 +106,8 @@
 
             .col-lg-6
                 .titulo-sexto.color-acento-contenido.mb-3
-                  h5 Figura 7.
+                  h5 Figura 7
+                  br
                   span <em>Kit para la inseminación artificial con pajillas</em>
                 figure
                   img(data-aos="fade-left")(src='@/assets/curso/temas/img2-final-tema5.png', alt='Texto que describa la imagen').img-final-tema5

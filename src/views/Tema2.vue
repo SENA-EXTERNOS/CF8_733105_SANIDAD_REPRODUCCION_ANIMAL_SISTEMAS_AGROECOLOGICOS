@@ -246,7 +246,8 @@
             .col-lg-5
             
               .titulo-sexto.color-acento-contenido.mb-3
-                  h5 Figura 2. 
+                  h5 Figura 2
+                  br
                   span <em>Vacunación en bovinos</em>
 
               figure(data-aos="zoom-in")
