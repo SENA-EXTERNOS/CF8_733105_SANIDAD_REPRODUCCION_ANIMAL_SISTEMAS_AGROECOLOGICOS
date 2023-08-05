@@ -67,20 +67,18 @@
         p.mb-5(data-aos='fade-right') Al momento de realizar actividades de manejo reproductivo, es importante contar con las herramientas adecuadas. Encuentre información detallada de los equipos y las herramientas necesarias para la inseminación artificial en el siguiente anexo:
     
 
-        .row.bloque-tarj1-man-anim-tema5
+        .row.bloque-tarj1-man-anim-tema5.mb-5
           .col-lg-10.fondo-tarj1-man-anim-tema1.tarjeta.p-4
             .row 
-              .col-lg-2
-                    img(src='@/assets/curso/temas/img-cerdo-tema5.png', alt='Texto que describa la imagen').img1-man-anim-tema5
-              
-              .col-lg-8
+            
+              .col
                   .text-white.p-3
                     h3.fw-bold Equipos, herramientas y materiales para la inseminación artificial
                     h4 Manejo de cerdos según etapa productiva
 
-              .col-lg-2
+              .col-lg-auto
                 .boton-tarj1-man-anim-tema1
-                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_5_ etapa_productiva_cerdos_compressed.pdf')" target="_blank")
+                  a.boton.boton--b(href="https://idoc.pub/documents/materiales-y-equipos-para-la-inseminacion-artificial-6nq8gz5p62nw" target="_blank")
                     .anexo__texto
                     span Ver enlace
                     i.fas.fa-chain

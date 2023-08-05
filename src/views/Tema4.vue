@@ -117,7 +117,7 @@
                 br
                 | Las glándulas endometriales inician su crecimiento.
                 br
-                | Altos niveles de estrógenos.0000
+                | Altos niveles de estrógenos.
           
             .col-md-6
               figure

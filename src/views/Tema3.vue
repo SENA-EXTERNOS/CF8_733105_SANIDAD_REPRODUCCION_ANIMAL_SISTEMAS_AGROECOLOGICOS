@@ -15,7 +15,7 @@
             p Los tratamientos convencionales son prácticas que se realizan, tradicionalmente, a base de sustancias químicas, biológicas y hormonales, las cuales contienen propiedades curativas que previenen enfermedades en los animales.
               br
               br
-              |Los tratamientos convencionales, son prácticas que se realizan, tradicionalmente, con base en sustancias químicas, biológicas y hormonales, las cuales contienen propiedades curativas que previenen enfermedades en los animales; estas son las características que se deben tener en cuenta:
+              |Los tratamientos convencionales son prácticas que se realizan, tradicionalmente, con base en sustancias químicas, biológicas y hormonales, las cuales contienen propiedades curativas que previenen enfermedades en los animales; estas son las características que se deben tener en cuenta:
           .col-lg-5: img(src='@/assets/curso/temas/c3.png', alt='')
 
         .tarjeta.container.p-4

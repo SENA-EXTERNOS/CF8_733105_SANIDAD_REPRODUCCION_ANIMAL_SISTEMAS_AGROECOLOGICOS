@@ -77,7 +77,7 @@
     .row.container.justify-content-around.align-items-align-items-center
         
         h3.mb-4 Manejo de animales por etapa productiva
-        p Para profundizar acerca de manejo animal por etapa reproductiva, consulte los siguientes anexos los cuales tienen información detallada sobre el manejo según cada etapa de desarrollo:
+        p Para profundizar acerca de manejo animal por etapa reproductiva, consulte los siguientes anexos, los cuales tienen información detallada sobre el manejo según cada etapa de desarrollo:
 
         .row.bloque-tarj1-man-anim-tema1
           .col-lg-10.fondo-tarj1-man-anim-tema1.tarjeta.p-4
@@ -270,7 +270,7 @@
                 .col-md-12
                   //h4 Sujeción de bovinos
                   p.txt-sujecion-bobinos Los métodos por efectuar dependen de algunas variables, por ejemplo, del tipo de explotación, el sexo, la edad o del tipo de proceso que se va a ejecutar (Voogd, 2018). 
-                  p.txt-sujecion-bobinos A continuación, se explican algunos de los métodos de sujeción para bovinos y porcinos.
+                  p.txt-sujecion-bobinos A continuación, se dan a conocer algunos de los métodos de sujeción para porcinos.
 
               .row
                 .col-md-12.mb-4.mb-md-0
