@@ -67,13 +67,13 @@
         p.mb-5(data-aos='fade-right') Al momento de realizar actividades de manejo reproductivo, es importante contar con las herramientas adecuadas. Encuentre información detallada de los equipos y las herramientas necesarias para la inseminación artificial en el siguiente anexo:
     
 
-        .row.bloque-tarj1-man-anim-tema5.mb-5
-          .col-lg-10.fondo-tarj1-man-anim-tema1.tarjeta.p-4
+        .row.justify-content-center.bloque-tarj1-man-anim-tema51.mb-5
+          .col-lg-10.fondo-tarj1-man-anim-tema11.tarjeta.p-4
             .row 
             
               .col
-                  .text-white.p-3
-                    h4 Equipos, herramientas y materiales para la inseminación artificial
+                .text-white.p-3
+                  h4.mb-0 Equipos, herramientas y materiales para la inseminación artificial
 
               .col-lg-auto
                 .boton-tarj1-man-anim-tema1
