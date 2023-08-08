@@ -73,8 +73,7 @@
             
               .col
                   .text-white.p-3
-                    h3.fw-bold Equipos, herramientas y materiales para la inseminación artificial
-                    h4 Manejo de cerdos según etapa productiva
+                    h4 Equipos, herramientas y materiales para la inseminación artificial
 
               .col-lg-auto
                 .boton-tarj1-man-anim-tema1
