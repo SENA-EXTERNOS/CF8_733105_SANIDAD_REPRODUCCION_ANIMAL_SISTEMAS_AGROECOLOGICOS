@@ -81,14 +81,6 @@
                     .anexo__texto
                     span Ver enlace
                     i.fas.fa-chain
-
-        p.txt-inf-tarj2-tema5 En las pajillas está contenido el semen de los toros, siendo conservado así para realizar inseminaciones artificiales o con la intención de perfeccionar las condiciones genéticas de una raza.
-
-
-    br
-    br
-    br
-
     .row.container.justify-content-around.align-items-align-items-center
         
         h3.subtitulo-de-pajillas Descongelación de pajillas
@@ -98,8 +90,8 @@
               .cajon.color-acento-botones.p-4
                 p En las pajillas está contenido el semen de los toros, siendo conservado así, para realizar inseminaciones artificiales o con la intención de perfeccionar las condiciones genéticas de una raza.
 
-                p Una pajilla es tubo delgado que contiene las células reproductivas del macho, se conservan en un tanque de nitrógeno, manteniéndolas a temperaturas adecuadas (-196C) para, posteriormente, ser usadas en los procesos de inseminación artificial con la finalidad de mejorar las condiciones genéticas de las razas.
-                p El método más común para descongelar pajillas es sumergiéndola en agua a 37C durante 40 segundos. Para realizar el proceso de forma exitosa, la pajilla debe tener poco contacto con los dedos y evitar la exposición al sol. Una vez descongelada, no se podrá volver a congelar.
+                p Una pajilla es un tubo delgado que contiene las células reproductivas del macho, se conservan en un tanque de nitrógeno, manteniéndolas a temperaturas adecuadas (-196 °C) para, posteriormente, ser usadas en los procesos de inseminación artificial con la finalidad de mejorar las condiciones genéticas de las razas.
+                p El método más común para descongelar pajillas es sumergiéndola en agua a 37 °C durante 40 segundos. Para realizar el proceso de forma exitosa, la pajilla debe tener poco contacto con los dedos y evitar la exposición al sol. Una vez descongelada, no se podrá volver a congelar.
 
             .col-lg-6
                 .titulo-sexto.color-acento-contenido.mb-3

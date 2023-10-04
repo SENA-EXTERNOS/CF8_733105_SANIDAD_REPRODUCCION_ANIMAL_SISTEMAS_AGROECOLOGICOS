@@ -12,10 +12,7 @@
 
         .row.justify-content-center.mb-5
           .col-lg-7
-            p Los tratamientos convencionales son prácticas que se realizan, tradicionalmente, a base de sustancias químicas, biológicas y hormonales, las cuales contienen propiedades curativas que previenen enfermedades en los animales.
-              br
-              br
-              |Los tratamientos convencionales son prácticas que se realizan, tradicionalmente, con base en sustancias químicas, biológicas y hormonales, las cuales contienen propiedades curativas que previenen enfermedades en los animales; estas son las características que se deben tener en cuenta:
+            p Los tratamientos convencionales son prácticas que se realizan, tradicionalmente, con base en sustancias químicas, biológicas y hormonales, las cuales contienen propiedades curativas que previenen enfermedades en los animales; estas son las características que se deben tener en cuenta:
           .col-lg-5: img(src='@/assets/curso/temas/c3.png', alt='')
 
         .tarjeta.container.p-4
@@ -119,7 +116,7 @@
             p Existen herramientas e implementos instrumentales para el manejo de la sanidad animal; es importante contar con ellas para el manejo de la producción pecuaria, y deben estar correctamente desinfectadas y almacenadas en condiciones mínimas sanitarias, garantizando una segura manipulación y evitando la propagación de enfermedades de contacto.
               br
               br
-              |En toda explotación pecuaria es necesario contar equipos que faciliten los procesos de aplicación de medicamentos, de inmovilización, de intervenciones quirúrgicas, de detención de malestares para el manejo de patologías causadas por bacterias, hongos, virus o protozoos, y de inflamaciones, producto de algún golpe, o de heridas causadas por objetos cortopunzantes o por actividades de manejo mal hechas.
+              |En toda explotación pecuaria es necesario contar con equipos que faciliten los procesos de aplicación de medicamentos, de inmovilización, de intervenciones quirúrgicas, de detención de malestares para el manejo de patologías causadas por bacterias, hongos, virus o protozoos, y de inflamaciones, producto de algún golpe, o de heridas causadas por objetos cortopunzantes o por actividades de manejo mal hechas.
               br
               br
               |Dentro de los equipos más usados se encuentran:
@@ -180,10 +177,10 @@
         .row.justify-content-center.align-items-center
           .col-lg-3: img(src='@/assets/curso/temas/c4.png', alt='')
           .col-lg-9
-            p Los insumos para atender a los animales, en cuanto a su manejo sanitario, requieren ser almacenados con cuidado, limpiados y secados, protegiéndolos del Sol y la humedad y evitando el deterioro de sus propiedades físicas. Algunos de esos insumos se describen a continuación.
+            p Los insumos para atender a los animales, en cuanto a su manejo sanitario, requieren ser almacenados con cuidado, limpiados y secados, protegiéndolos del sol y la humedad evitando el deterioro de sus propiedades físicas. Algunos de esos insumos se describen a continuación.
               br
               br
-              |Los insumos son todos los productos, de origen natural o sintético, utilizados para favorecer la producción agropecuaria. Igualmente, ayudan a diagnosticar, prevenir y erradicar enfermedades o agentes patógenos que afectan los rendimientos de los animales y sus subproductos. Entre los principales insumos empleados en la producción pecuaria, se encuentran: 
+              |Los insumos son todos los productos, de origen natural o sintético, utilizados para favorecer la producción agropecuaria. Igualmente, ayudan a diagnosticar, prevenir y erradicar enfermedades o agentes patógenos que afectan el rendimiento de los animales y sus subproductos. Entre los principales insumos empleados en la producción pecuaria, se encuentran: 
 
         .row.fila1-tarj-avat-tema3
           .col-sm-6.col-lg-3.mb-4.mb-lg-0

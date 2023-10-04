@@ -21,7 +21,7 @@
                 //figcaption Leyenda de la imagen
             
             .col-md-6.mb-4.mb-md-0
-              p.txt-acord-tema1 Se pueden instalar animales en sistemas tradicionales,  permitiendo que los ejemplares tomen su alimento a libre disposición. Debido a la degradación del suelo, por sobrepastoreo o por sistemas intensivos o tecnificados, se requiere aumentar en el gasto en la construcción de instalaciones, lo que da resultados positivos y aumenta los parámetros de producción. Animales cómodos suministran alimentos de calidad. Además, se facilita el manejo y se evita la degradación de pastos.
+              p.txt-acord-tema1 Se pueden instalar animales en sistemas tradicionales,  permitiendo que los ejemplares tomen su alimento a libre disposición. Debido a la degradación del suelo, por sobrepastoreo o por sistemas intensivos o tecnificados, se requiere aumentar el gasto en la construcción de instalaciones, lo que da resultados positivos y aumenta los parámetros de producción. Animales cómodos suministran alimentos de calidad. Además, se facilita el manejo y se evita la degradación de pastos.
           
 
           
@@ -252,7 +252,7 @@
       
 
         TabsC.color-primario.fondo-pestanas-horiz-tema1
-            .py-3.py-md-4(titulo="Sujeción de bovinos.")
+            .py-3.py-md-4(titulo="Sujeción de bovinos")
               .row
                 .col-md-12.mb-4.mb-md-0
                   //h4 Sujeción de bovinos

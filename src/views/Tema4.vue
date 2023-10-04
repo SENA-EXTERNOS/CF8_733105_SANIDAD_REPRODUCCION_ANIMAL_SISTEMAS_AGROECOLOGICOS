@@ -28,7 +28,7 @@
             LineaTiempoD.color-secundario
               p(numero="1" titulo="Testículos") Son glándulas ovoides, se encuentran en el abdomen y cumplen la función de espermatogénesis, es decir, la producción de espermatozoides.
 
-              p(numero="2" titulo="Escroto") Es el saco que cubre los testículos, su función es de termofusión y mantiene una temperatura estable al espermatozoide.
+              p(numero="2" titulo="Escroto") Es el saco que cubre los testículos, su función es de termorregulación, manteniendo una temperatura estable para los espermatozoides
 
               p(numero="3" titulo="Epidídimos") Son conductos que están unidos a los testículos, sirven como canal conductor de los espermatozoides.
 
@@ -67,7 +67,7 @@
             LineaTiempoD.color-secundario
               p(numero="1" titulo="Ovarios") Producen las células germinales, óvulos, además de las hormonas sexuales femeninas. Regulan la función de los órganos genitales.
 
-              p(numero="2" titulo="Oviducto o Trompas de Falopio") Son conductos delgados, su función es recoger el óvulo y permitir la llegada al útero
+              p(numero="2" titulo="Oviducto o trompas de falopio") Son conductos delgados, su función es recoger el óvulo y permitir la llegada al útero
 
               p(numero="3" titulo="Útero") Es un órgano hueco con paredes musculares, aloja al feto durante la gestación. Se divide en cérvix, cuerpo uterino y cuerno uterino
 
@@ -85,10 +85,10 @@
         .titulo-segundo.color-secundario
           h2 4.1 Ciclo estral
 
-        p Se conoce como ciclo estral al conjunto de eventos fisiológicos que tienen lugar entre un celo y otro; el ciclo estral en las hembras se determinan por las interacciones del hipotálamo, la hipófisis y los ovarios. Durante este periodo, ocurre una serie de cambios, que se repite cada cierto tiempo, y que está comprendido por cuatro fases.
+        p Se conoce como ciclo estral al conjunto de eventos fisiológicos que tienen lugar entre un celo y otro; el ciclo estral en las hembras se determinan por las interacciones del hipotálamo, la hipófisis y los ovarios. Durante este periodo, ocurre una serie de cambios, que se repite cada cierto tiempo, y que está comprendido por dos fases.
           br
           br
-          |A continuación, se describen las cuatro fases que lo integran:
+          |A continuación, se describen las dos fases que lo integran:
 
         .row 
           .col-lg-12
@@ -111,7 +111,7 @@
             .col-md-6.mb-4.mb-md-0
               p.txt-acord-tema4 Presencia de folículos grandes.
                 br
-                | Incrementos de estrógenos
+                | Incrementos de estrógenos.
                 br
                 | Incremento de la vascularización del tracto reproductivo de la hembra.
                 br
@@ -146,7 +146,7 @@
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/img-estro-tema4.png', alt='Texto que describa la imagen').img-acord-tema4
-                p.txt-estro-tema4 Estro: celo o calor, fase donde se rompe el folículo y es el momento adecuado para que la hembra acepte el macho para la cúpula.
+                p.txt-estro-tema4 Estro: celo o calor, etapa donde se rompe el folículo y es el momento adecuado para que la hembra acepte el macho para la cúpula.
                 //figcaption Leyenda de la imagen
 
           .row(titulo="METAESTRO")
@@ -167,21 +167,21 @@
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/img-metaestro-tema4.png', alt='Texto que describa la imagen').img-acord-tema4
-                p.txt-mataestro-tema4 Mataestro: fase de formación del cuerpo lúteo.
+                p.txt-mataestro-tema4 Mataestro: etapa de formación del cuerpo lúteo.
                 //figcaption Leyenda de la imagen
 
           
           .row(titulo="DIESTRO")
             .col-md-6.mb-4.mb-md-0
-              p.txt-acord-tema4 Altos niveles de progesterona
+              p.txt-acord-tema4 Altos niveles de progesterona.
                 br
                 |  Bajos niveles de la hormona folículo estimulante.
                 br
-                |  El útero secreta fluidos
+                |  El útero secreta fluidos.
                 br
                 |  Se detienen las contracciones uterinas.
                 br
-                |  El cuerpo lúteo regresa al terminar este periodo si la hembra no está preñada
+                |  El cuerpo lúteo regresa al terminar este periodo si la hembra no está preñada.
               
             .col-md-6
               figure
@@ -210,9 +210,9 @@
                     img(src='@/assets/curso/temas/img-vaca-ciclo-tema4.png', alt='Texto que describa la imagen').img-ciclo-estral-tema4
 
               h3.text-center Vaca
-              p.text-small Inicio y duración de la pubertad: 7- 18 meses
+              p.text-small Inicio y duración de la pubertad: 7- 18 meses.
                 br
-                | Duración del celo: 20 a 23 días
+                | Duración del celo: 20 a 23 días.
 
           .col-sm-6.col-lg-3.mb-4.mb-lg-0
             .tarjeta--boton.color-acento-botones.tarj-ciclo-estral.p-4
@@ -222,9 +222,9 @@
                     img(src='@/assets/curso/temas/img-yegua-tema4.png', alt='Texto que describa la imagen').img-ciclo-estral-tema4
 
               h3.text-center Yegua
-              p.text-small Inicio y duración de la pubertad: 18 meses
+              p.text-small Inicio y duración de la pubertad: 18 meses.
                 br
-                | Duración del celo: 21 días
+                | Duración del celo: 21 días.
 
           .col-sm-6.col-lg-3.mb-4.mb-sm-0
             .tarjeta--boton.color-acento-botones.tarj-ciclo-estral.text-white--hover.p-4
@@ -234,9 +234,9 @@
                     img(src='@/assets/curso/temas/img-oveja-tema4.png', alt='Texto que describa la imagen').img-ciclo-estral-tema4
 
               h3.text-center Oveja
-              p.text-small Inicio y duración de la pubertad: 9 a 15 meses
+              p.text-small Inicio y duración de la pubertad: 9 a 15 meses.
                 br
-                | Duración del celo: 17 días
+                | Duración del celo: 17 días.
 
         .row.fila2-tarj-ciclo-estral.mb-5
 
@@ -248,9 +248,9 @@
                     img(src='@/assets/curso/temas/img-cerda-tema4.png', alt='Texto que describa la imagen').img-ciclo-estral-tema4
 
               h3.text-center Cerda
-              p.text-small Inicio y duración de la pubertad: 6 a 8 meses
+              p.text-small Inicio y duración de la pubertad: 6 a 8 meses.
                 br
-                | Duración del celo: 20 a 21 días
+                | Duración del celo: 20 a 21 días.
           
           .col-sm-6.col-lg-3
             .tarjeta--boton.color-acento-botones.tarj-ciclo-estral.p-4
@@ -260,9 +260,9 @@
                     img(src='@/assets/curso/temas/img-cabra-tema4.png', alt='Texto que describa la imagen').img-ciclo-estral-tema4
 
               h3.text-center Cabra
-              p.text-small Inicio y duración de la pubertad: 4 a 8 meses 
+              p.text-small Inicio y duración de la pubertad: 4 a 8 meses. 
                 br
-                | Duración del celo: 21 días
+                | Duración del celo: 21 días.
         .row.justify-content-center.my-5
           .col-lg-8
             .cajon.color-primario.p-4.mb-4(style="background-color: #fff2df ")
@@ -296,7 +296,7 @@
 
             .row.justify-content-center.align-items-center.my-lg-4
               .col-md-6.mb-4.mb-md-0
-                h4.img-slider-tema4 Métodos y técnicas para detectar el celo en bovinos.
+                h4.img-slider-tema4 Métodos y técnicas para detectar el celo en bovinos
                 p.img-slider-tema4 En fincas tecnificadas que realizan procesos de inseminación artificial, se induce al celo por medio de tratamientos donde controlan todo el proceso. 
                 p.img-slider-tema4 No obstante, lo contrario ocurre en lugares donde usan la monta, siendo importante tener en cuenta los siguientes signos. Durante el celo, las vacas manifiestan algunos cambios en su comportamiento, se encuentran inquietas, dejan de alimentarse y disminuyen el proceso de rumia. De pasar esto, la monta se debe realizar a las 12 horas que presentan el comportamiento.
 
@@ -344,7 +344,7 @@
         .titulo-segundo.color-secundario
           h2 4.3 Métodos de estimulación del celo
 
-        p La etapa de celo, es importante la estimulación para la reproducción exitosa de las hembras.
+        p Durante la etapa de celo, es importante la estimulación para la reproducción exitosa de las hembras.
           br
           br
           |Al hablar de estimulación del celo se hace referencia a disminuir los periodos entre servicios y partos, induciendo a la actividad sexual. La preparación se realiza con diversas hormonas para regular el celo.  A continuación algunos métodos de estimulación:

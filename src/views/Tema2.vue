@@ -20,7 +20,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10
-        img(src='@/assets/curso/temas/c2.png', alt='')    
+        img(src='@/assets/curso/temas/c2.svg', alt='')    
       
 
     br
@@ -38,7 +38,7 @@
         .titulo-segundo.color-secundario
           h2 2.1 Enfermedades de las especies pecuarias
 
-        p La salud de los animales es resultado de la integración de muchos factores, donde debe primar la prevención, el tratamiento y la curación. A su vez, depende de varias condiciones, por ejemplo, de la capacidad de reacción ante enfermedades, del estado de inmunidad ligado a la raza, el clima y el suelo, o del manejo por parte del operario y de la ejecución de planes de desinfección. Es necesario conocer las principales enfermedades de los bovinos; Veamos:
+        p La salud de los animales es resultado de la integración de muchos factores, donde debe primar la prevención, el tratamiento y la curación. A su vez, depende de varias condiciones, por ejemplo, de la capacidad de reacción ante enfermedades, del estado de inmunidad ligado a la raza, el clima y el suelo, o del manejo por parte del operario y de la ejecución de planes de desinfección. Es necesario conocer las principales enfermedades de los bovinos; veamos:
 
         .row
           figure
@@ -57,15 +57,15 @@
                           img(src="@/assets/curso/temas/img1-enferm-tema2.png", alt="alt").img100.imgs-tarj-tema2
                       .col
                         h5.txts-tarj-tema2.text-small Enfermedades del tracto digestivo
-                        p.txts-tarj-tema2.text-small Coccidiosis = Protozoo
+                        p.txts-tarj-tema2.text-small Coccidiosis = protozoo
                           br
-                          | Parásitos gastrointestinales por nematodos = Helmintos
+                          | Parásitos gastrointestinales por nematodos = helmintos
                           br
-                          | Parásitos gastrointestinales por trematodos =Helmintos
+                          | Parásitos gastrointestinales por trematodos = helmintos
                           br
-                          | Diarrea viral bovina = Virus
+                          | Diarrea viral bovina = virus
                           br
-                          | Diarrea neonatal = Bacterias
+                          | Diarrea neonatal = bacterias
 
                   .crd.crd--avatarHorizontal.fondo-tarj2-tema2.py-4
                     .row.align-items-center
@@ -80,7 +80,7 @@
                           br
                           | Bronquitis verminosa	= helminto
                           br
-                          | Neumonía= Virus o bacteria
+                          | Neumonía = virus o bacteria
                         
                   .crd.crd--avatarHorizontal.crd--last.fondo-tarj3-tema2.py-4
                     .row.align-items-center
@@ -89,19 +89,19 @@
                           img(src="@/assets/curso/temas/img3-enferm-tema2.png", alt="alt").img100.imgs-tarj-tema2
                       .col
                         h5.txts-tarj-tema2.text-small Enfermedades generalizadas
-                        p.txts-tarj-tema2.text-small Fiebre aftosa = Virus
+                        p.txts-tarj-tema2.text-small Fiebre aftosa = virus
                           br
-                          |  Tétanos = Bacteria
+                          |  Tétanos = bacteria
                           br
-                          |  Tuberculosis = Bacteria
+                          |  Tuberculosis = bacteria
                           br
-                          |  Abscesos = Bacteria
+                          |  Abscesos = bacteria
                           br
-                          |  Carbón bacteridiano = Bacteria
+                          |  Carbón bacteridiano = bacteria
                           br
-                          |  Carbón sintomático = Bacteria
+                          |  Carbón sintomático = bacteria
                           br
-                          |  Edema maligno = Bacteria
+                          |  Edema maligno = bacteria
           .col-lg-6
             .row.justify-content-center.mb-5
                 .col-lg-9.position-relative
@@ -115,11 +115,11 @@
                         h5.txts-tarj-tema2.text-small Enfermedades reproductivas
                         p.txts-tarj-tema2.text-small Brucelosis = bacteria
                           br
-                          |  Campilobacteriosis = Bacteria
+                          |  Campilobacteriosis = bacteria
                           br
-                          |  Tricomoniasis = Protozoo
+                          |  Tricomoniasis = protozoo
                           br
-                          |  Mastitis = Bacterias
+                          |  Mastitis = bacterias
                           br
                           |  Metritis = bacterias
                         
@@ -130,11 +130,11 @@
                           img(src="@/assets/curso/temas/img5-enferm-tema2.png", alt="alt").img100.imgs-tarj-tema2
                       .col
                         h5.txts-tarj-tema2.text-small Enfermedades de la piel
-                        p.txts-tarj-tema2.text-small Gusaneras = Larvas de la mosca
+                        p.txts-tarj-tema2.text-small Gusaneras = larvas de la mosca
                           br
-                          |  Garrapatas = Parásitos externos
+                          |  Garrapatas = parásitos externos
                           br
-                          |  Sarna = Parásitos externos
+                          |  Sarna = parásitos externos
     
     br
     br
@@ -152,37 +152,37 @@
               img(src="@/assets/curso/temas/img-enfrm-porcin-tema2.png", alt="alt")
           .col-lg-8
             LineaTiempoD.color-secundario
-              p(numero="1" titulo="Enfermedades respiratorias") Neumonía = Mala ventilación y apiñamiento
+              p(numero="1" titulo="Enfermedades respiratorias") Neumonía = mala ventilación y apiñamiento
                 br
-                |  Rinitis atrófica = Ambientes con polvo, nivel alto de amoniaco
+                |  Rinitis atrófica = ambientes con polvo, nivel alto de amoniaco
                 br
-                |  Pleuroneumonía = Higiene deficiente, hacinamiento y cerdos portadores
+                |  Pleuroneumonía = higiene deficiente, hacinamiento y cerdos portadores
                 br
-                |  Influenza = Virus propagado en el aire o compra de animales infectados
+                |  Influenza = virus propagado en el aire o compra de animales infectados
 
-              p(numero="2" titulo="Enfermedades del sistema digestivo") Colibacilosis = Alimentos descompuestos, contaminación por heces
+              p(numero="2" titulo="Enfermedades del sistema digestivo") Colibacilosis = alimentos descompuestos, contaminación por heces
                 br
-                |  Diarrea post destete = Enfermedad que ocurre después del destete o el cambio de dieta
+                |  Diarrea post destete = enfermedad que ocurre después del destete o el cambio de dieta
                 br
-                |  Enteritis = Higiene deficiente
+                |  Enteritis = higiene deficiente
                 br
-                |  Infección de clostridios = Deficiencia en vitamina E
+                |  Infección de clostridios = deficiencia en vitamina E
 
-              p(numero="3" titulo="Enfermedades del sistema reproductor") Parvovirosis = Por contacto directo o contaminación ambiental
+              p(numero="3" titulo="Enfermedades del sistema reproductor") Parvovirosis = por contacto directo o contaminación ambiental
                 br
-                |  Leptospirosis = A través de la orina de cerdos infectados
+                |  Leptospirosis = a través de la orina de cerdos infectados
                 br
-                |  Brucelosis = A través de cúpula, placentas y fetos abortados
+                |  Brucelosis = a través de cúpula, placentas y fetos abortados
 
-              p(numero="4" titulo="Otras enfermedades") Mastitis = Alimentos con poca fibra, falta de ejercicio, gordura excesiva
+              p(numero="4" titulo="Otras enfermedades") Mastitis = alimentos con poca fibra, falta de ejercicio, gordura excesiva
                 br
-                |  Hipoglicemia = Ocasionada por la leche o bajas temperaturas del corral 
+                |  Hipoglicemia = ocasionada por la leche o bajas temperaturas del corral 
                 br
-                |  Artritis = Cambios bruscos de temperatura
+                |  Artritis = cambios bruscos de temperatura
                 br
-                |  Epidermis = Heridas en la piel
+                |  Epidermis = heridas en la piel
                 br
-                |  Síndrome reproductivo = Transmisión por semen y contacto directo
+                |  Síndrome reproductivo = transmisión por semen y contacto directo
 
 
 
@@ -208,40 +208,40 @@
               AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
                 .row(titulo="Fiebre aftosa")
                   .col-12
-                    p.mb-0 Se vacunan todos los animales adultos y los terneros desde los 6 meses 
-                    p  Revacunación = Cada 6 meses
-                    p  Generalmente, se establecen dos fechas al año para la vacunación (consultar con la autoridad sanitaria de la zona)
+                    p.mb-0 Se vacunan todos los animales adultos y los terneros desde los 6 meses. 
+                    p  Revacunación = cada 6 meses.
+                    p  Generalmente, se establecen dos fechas al año para la vacunación (consultar con la autoridad sanitaria de la zona).
 
                 .row(titulo="Carbón sintomático")
                   .col-12
-                    p.mb-0 Se vacunan machos y hembras desde los 3 meses 
-                    p  Revacunación = destete y cada año
+                    p.mb-0 Se vacunan machos y hembras desde los 3 meses. 
+                    p  Revacunación = destete y cada año.
                     p  Comprobada la enfermedad en hato, se aplica una dosis de refuerzo al año de edad.
                     
                 .row(titulo="Septicemia hemorrágica")
                   .col-12
-                    p.mb-0 Se vacunan machos y hembras desde los 3 meses 
-                    p  Revacunación = destete y cada año
-                    p  Comprobada la enfermedad, se aplica una dosis de refuerzo al año
+                    p.mb-0 Se vacunan machos y hembras desde los 3 meses. 
+                    p  Revacunación = destete y cada año.
+                    p  Comprobada la enfermedad, se aplica una dosis de refuerzo al año.
                                           
                 .row(titulo="Edema maligno")
                   .col-12
-                    p.mb-0 Se vacunan machos y hembras desde los 3 meses 
-                    p  Revacunación = destete y cada año
-                    p  Comprobada la enfermedad, se aplica una dosis de refuerzo al año
+                    p.mb-0 Se vacunan machos y hembras desde los 3 meses. 
+                    p  Revacunación = destete y cada año.
+                    p  Comprobada la enfermedad, se aplica una dosis de refuerzo al año.
                     
                 .row(titulo="Carbón bacteridiano")
                   .col-12
-                    p.mb-0 Se vacunan al año
-                    p  Revacunación= Cada año
-                    p  Vacunar siempre que la enfermedad se presente en la zona, siguiendo, siempre, la recomendación veterinaria
+                    p.mb-0 Se vacunan al año.
+                    p  Revacunación = cada año.
+                    p  Vacunar siempre que la enfermedad se presente en la zona, siguiendo, siempre, la recomendación veterinaria.
 
                 .row(titulo="Brucelosis")
                   .col-12
-                    p.mb-0 Se vacunan terneras entre los 3 y 7 meses 
-                    p  Revacunación= Una sola vez
-                    p  No vacunar hembras mayores de 9 meses o hembras adultas
-                    p  No vacunar machos destinados para la reproducción
+                    p.mb-0 Se vacunan terneras entre los 3 y 7 meses. 
+                    p  Revacunación = una sola vez.
+                    p  No vacunar hembras mayores de 9 meses o hembras adultas.
+                    p  No vacunar machos destinados para la reproducción.
             
             .col-lg-5
             
@@ -295,10 +295,10 @@
                   img(src="@/assets/curso/temas/img-peste-porcina-tema2.png", alt="alt")
 
               p(numero="3" titulo="Rinitis atrófica") 
-                  img(src="@/assets/curso/temas/img-rinitis-tema2.png", alt="alt")
+                  img(src="@/assets/curso/temas/1.png", alt="alt")
 
               p(numero="4" titulo="Parvovirus") 
-                  img(src="@/assets/curso/temas/img-parvovirus-tema2.png", alt="alt")
+                  img(src="@/assets/curso/temas/2.png", alt="alt")
               
               p(numero="5" titulo="Leptospira") 
                   img(src="@/assets/curso/temas/img-leptospira-tema2.png", alt="alt")
@@ -307,10 +307,10 @@
                   img(src="@/assets/curso/temas/img-irisipela-tema2.png", alt="alt")
 
               p(numero="7" titulo="Enfermedad de aujeszky") 
-                  img(src="@/assets/curso/temas/img-enfermedad-aujeszky.png", alt="alt")
+                  img(src="@/assets/curso/temas/4.png", alt="alt")
               
               p(numero="8" titulo="Diarrea neonatal") 
-                  img(src="@/assets/curso/temas/img-diarrea-neonalta-tema2.png", alt="alt")
+                  img(src="@/assets/curso/temas/3.png", alt="alt")
               
               p(numero="9" titulo="Vermifumigación") 
                   img(src="@/assets/curso/temas/img-verifumigacion-tema2.png", alt="alt")
