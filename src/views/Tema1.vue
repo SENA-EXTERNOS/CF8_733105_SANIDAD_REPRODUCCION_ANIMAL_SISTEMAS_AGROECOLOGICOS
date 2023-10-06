@@ -91,7 +91,7 @@
 
               .col-lg-2
                 .boton-tarj1-man-anim-tema1
-                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_3_ etapas_productivas_leche_compressed.pdf')" target="_blank")
+                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_1_etapas_productivas_leche.pdf')" target="_blank")
                     .anexo__texto
                     span Ver enlace
                     i.fas.fa-chain
@@ -111,7 +111,7 @@
 
               .col-lg-2
                 .boton-tarj1-man-anim-tema1
-                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_4_etapa_productiva_carne_compressed.pdf')" target="_blank")
+                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_2_etapa_productiva_carne.pdf')" target="_blank")
                     .anexo__texto
                     span Ver enlace
                     i.fas.fa-chain
@@ -132,7 +132,7 @@
 
               .col-lg-2
                 .boton-tarj1-man-anim-tema1
-                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_5_ etapa_productiva_cerdos_compressed.pdf')" target="_blank")
+                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_3_etapa_productiva_cerdos.pdf')" target="_blank")
                     .anexo__texto
                     span Ver enlace
                     i.fas.fa-chain
