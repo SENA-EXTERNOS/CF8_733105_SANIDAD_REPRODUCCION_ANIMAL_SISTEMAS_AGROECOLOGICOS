@@ -120,12 +120,11 @@
 
             h3.text-white.mb-0 Manejo de cerdos según su etapa productiva
 
-          .col-auto
-            .boton-tarj1-man-anim-tema1
-              a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_3_etapa_productiva_cerdos.pdf')" target="_blank")
-                .anexo__texto
-                span Ver enlace
-                i.fas.fa-chain
+          .col-auto            
+            a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_3_etapa_productiva_cerdos.pdf')" target="_blank")
+              .anexo__texto
+              span Ver enlace
+              i.fas.fa-chain
                     
 
     separador
