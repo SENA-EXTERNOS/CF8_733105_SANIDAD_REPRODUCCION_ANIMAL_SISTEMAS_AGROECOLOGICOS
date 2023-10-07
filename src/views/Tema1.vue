@@ -79,69 +79,54 @@
         h3.mb-4 Manejo de animales por etapa productiva
         p Para profundizar acerca de manejo animal por etapa reproductiva, consulte los siguientes anexos, los cuales tienen información detallada sobre el manejo según cada etapa de desarrollo:
 
-        .row.bloque-tarj1-man-anim-tema1
-          .col-lg-10.fondo-tarj1-man-anim-tema1.tarjeta.p-4
-            .row 
-              .col-lg-2
-                    img(src='@/assets/curso/temas/img-etap-prod-tema1.png', alt='Texto que describa la imagen').img1-man-anim-tema1
-              
-              .col-lg-8
-
-                  h3.txt-tarj1-man-anim-tema1 Manejo de ternera, novilla y vaca lactante
-
-              .col-lg-2
-                .boton-tarj1-man-anim-tema1
-                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_1_etapas_productivas_leche.pdf')" target="_blank")
-                    .anexo__texto
-                    span Ver enlace
-                    i.fas.fa-chain
-    br
-
-    .row.container.justify-content-around.align-items-align-items-center
-        
-        .row.bloque-tarj1-man-anim-tema1
-          .col-lg-10.fondo-tarj1-man-anim-tema1.tarjeta.p-4
-            .row 
-              .col-lg-2
-                    img(src='@/assets/curso/temas/img2-etap-prod-tema1.png', alt='Texto que describa la imagen').img2-man-anim-tema1
-              
-              .col-lg-8
-
-                  h3.txt-tarj1-man-anim-tema1 Manejo de bovinos para producción de carne
-
-              .col-lg-2
-                .boton-tarj1-man-anim-tema1
-                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_2_etapa_productiva_carne.pdf')" target="_blank")
-                    .anexo__texto
-                    span Ver enlace
-                    i.fas.fa-chain
-    
-    br
-    
-    .row.container.justify-content-around.align-items-align-items-center
-
-        .row.bloque-tarj1-man-anim-tema1
-          .col-lg-10.fondo-tarj1-man-anim-tema1.tarjeta.p-4
-            .row 
-              .col-lg-2
-                    img(src='@/assets/curso/temas/img3-etap-prod-tema1.png', alt='Texto que describa la imagen').img3-man-anim-tema1
-              
-              .col-lg-8
-
-                  h3.txt-tarj1-man-anim-tema1 Manejo de cerdos según su etapa productiva
-
-              .col-lg-2
-                .boton-tarj1-man-anim-tema1
-                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_3_etapa_productiva_cerdos.pdf')" target="_blank")
-                    .anexo__texto
-                    span Ver enlace
-                    i.fas.fa-chain
-                    
+    .row.justify-content-center.mb-4
+      .col-lg-10.bloque-tarj1-man-anim-tema1.p-4
+        .row.align-items-center
+          .col-auto
+            img(src='@/assets/curso/temas/img-etap-prod-tema1.png', alt='Texto que describa la imagen')
           
+          .col
+            h3.text-white.mb-0 Manejo de ternera, novilla y vaca lactante
+
+          .col-auto
+            a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_1_etapas_productivas_leche.pdf')" target="_blank")
+              .anexo__texto
+              span Ver enlace
+              i.fas.fa-chain
+
+    .row.justify-content-center.mb-4        
+      .col-lg-10.bloque-tarj1-man-anim-tema1.p-4
+        .row.align-items-center
+          .col-auto
+            img(src='@/assets/curso/temas/img2-etap-prod-tema1.png', alt='Texto que describa la imagen')          
+          .col
+
+            h3.text-white.mb-0 Manejo de bovinos para producción de carne
+
+          .col-auto
+            a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_2_etapa_productiva_carne.pdf')" target="_blank")
+              .anexo__texto
+              span Ver enlace
+              i.fas.fa-chain
+
     
-    br
-    br
-    br
+    .row.justify-content-center.mb-4        
+      .col-lg-10.bloque-tarj1-man-anim-tema1.p-4
+        .row.align-items-center
+          .col-auto
+            img(src='@/assets/curso/temas/img3-etap-prod-tema1.png', alt='Texto que describa la imagen').img3-man-anim-tema1
+              
+          .col
+
+            h3.text-white.mb-0 Manejo de cerdos según su etapa productiva
+
+          .col-auto
+            .boton-tarj1-man-anim-tema1
+              a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_3_etapa_productiva_cerdos.pdf')" target="_blank")
+                .anexo__texto
+                span Ver enlace
+                i.fas.fa-chain
+                    
 
     separador
     

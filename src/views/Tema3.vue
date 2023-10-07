@@ -83,29 +83,19 @@
           .cajon.color-acento-botones.p-4
             p.mb-0 Los medicamentos son sustancia de origen química, sintética o natural, usada para la curación, prevención y alivio de una enfermedad que afecta el normal funcionamiento del organismo del animal.
 
-      .row.bloque-tarj1-man-anim-tema1
-          .col-lg-10.fondo-tarj1-man-anim-tema1.tarjeta.p-4
-            .row 
-              .col-lg-2
-                    img(src='@/assets/curso/temas/img-etap-prod-tema1.png', alt='Texto que describa la imagen').img1-man-anim-tema1
-              
-              .col-lg-8
+    .row.justify-content-center.mb-5.mt-4
+      .col-lg-10.bloque-tarj1-man-anim-tema1.p-4
+        .row.align-items-center 
+          .col-auto
+                img(src='@/assets/curso/temas/img-etap-prod-tema1.png', alt='Texto que describa la imagen')           
+          .col
+              h3.text-white.mb-0 Medicamentos para bovinos y porcinos.
+          .col-auto
+            a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_4_Medicamentos_veterinarios.pdf')" target="_blank")
+              .anexo__texto
+              span Ver enlace
+              i.fas.fa-chain      
 
-                  h3.txt-tarj1-man-anim-tema1 Medicamentos para bovinos y porcinos.
-
-              .col-lg-2
-                .boton-tarj1-man-anim-tema1
-                  a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_6_ Medicamentos_veterinarios_compressed.pdf')" target="_blank")
-                    .anexo__texto
-                    span Ver enlace
-                    i.fas.fa-chain      
-      
-
-
-    br
-    br
-    br
-    br
 
 
     .row.container.justify-content-around.align-items-align-items-center
