@@ -227,7 +227,7 @@
                 | Duración del celo: 21 días.
 
           .col-sm-6.col-lg-3.mb-4.mb-sm-0
-            .tarjeta--boton.color-acento-botones.tarj-ciclo-estral.text-white--hover.p-4
+            .tarjeta--boton.color-acento-botones.tarj-ciclo-estral.p-4
               .row.justify-content-center.mb-3
                 .col-10
                   figure
@@ -360,7 +360,7 @@
               
                 .col-md-6
                   figure
-                    img(src='@/assets/curso/temas/img-estim-celo-tema4.png', alt='Texto que describa la imagen').img-pestanas-tema4
+                    img(src='@/assets/curso/temas/img-estim-celo-tema4-2.png', alt='Texto que describa la imagen').img-pestanas-tema4
                     //figcaption Leyenda de la imagen
 
             .py-3.py-md-4(titulo="Medicamentos para la estimulación del celo")
